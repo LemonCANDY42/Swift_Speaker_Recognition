@@ -1,0 +1,10 @@
+{
+  "MLModelCreatorDefinedKey" : {
+    "com.apple.createml.app.tag" : "53.6",
+    "com.apple.createml.version" : "11.5.1",
+    "com.apple.coreml.model.preview.type" : "soundClassifier",
+    "com.apple.createml.app.version" : "2.0",
+    "sampleRate" : "16000"
+  },
+  "MLModelAuthorKey" : "Kenny Zhou"
+}

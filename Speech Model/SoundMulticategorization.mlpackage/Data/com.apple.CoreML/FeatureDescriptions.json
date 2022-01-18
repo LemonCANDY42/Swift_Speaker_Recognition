@@ -1,0 +1,18 @@
+{
+  "Outputs" : {
+    "classLabel" : {
+      "MLFeatureShortDescription" : "Most likely sound category"
+    },
+    "classLabelProbs" : {
+      "MLFeatureShortDescription" : "Probability of each category"
+    }
+  },
+  "Inputs" : {
+    "audioSamples" : {
+      "MLFeatureShortDescription" : "Input audio samples to be classified"
+    }
+  },
+  "TrainingInputs" : {
+
+  }
+}
