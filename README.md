@@ -1,0 +1,2 @@
+# Swift_Speaker_Recognition
+一个基于swiftui的说话人识别app示例
